@@ -1296,3 +1296,6 @@ address {
   .container { max-width: 1180px; }
 
 }
+.test{
+  display:none;
+}
